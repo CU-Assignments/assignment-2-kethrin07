@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xx5IrPZW)
 # Assignment2-APLAB-VISHALKUMAR-E18147 
-# Attache screenshot for each solution
+# Submitted by- Kethrin Naharwal, 22BCS12653, 22BCS_FL_IOT-603/A
 1763.[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/)<br>
 190.[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)<br>
 191.[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)<br>
